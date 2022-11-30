@@ -5,3 +5,5 @@ hello_cargo/target/
 common_concept/target/
 
 ownership/target/
+
+borrow_and_reference/target/
